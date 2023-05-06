@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GuilhermeDeSanti
 - 👀 I’m interested in practice my coding skills,
-- 🌱 I’m currently learning programming in some languages, C, Javascript, PHP, and Python for example.
+- 🌱 I’m currently learning programming in some languages, Java, Javascript, PHP, and Kotlin for example.
 - 💞️ I’m looking to collaborate on some small projects and want learn how work in a team
 - 📫 You can reach me at guilhermesantidev@gmail.com
 
